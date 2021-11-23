@@ -1,0 +1,1 @@
+This is just a (hastily written) Jupyter notebook that hopefully illustrates some main features of the SSH model, completed during a practical of the MPhil in Scientific Computing (2021-22) course on Topological Materials by Prof. Bartomeu Monserrat.
